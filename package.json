@@ -1,0 +1,24 @@
+{
+  "name": "node-api-example",
+  "version": "1.0.0",
+  "description": "Example RestAPI using MongoDB and Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lw246/node-api-example.git"
+  },
+  "keywords": [
+    "Node",
+    "Mongo",
+    "RestAPI"
+  ],
+  "author": "LW246",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lw246/node-api-example/issues"
+  },
+  "homepage": "https://github.com/lw246/node-api-example#readme"
+}
