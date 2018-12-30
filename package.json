@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/lw246/node-api-example/issues"
   },
-  "homepage": "https://github.com/lw246/node-api-example#readme"
+  "homepage": "https://github.com/lw246/node-api-example#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.1"
+  }
 }
